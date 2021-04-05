@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<PackageId>Uniquify</PackageId>
+		<Version>1.0.0</Version>
+		<Description>Generate Unique tokens with uniquify</Description>
+		<Authors>Muhammad Javad Qolami</Authors>
+		<PackageProjectUrl>https://github.com/MuhammedJavad/Uniquify</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/MuhammedJavad/Uniquify.git</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+</Project>
